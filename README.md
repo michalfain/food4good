@@ -1,4 +1,4 @@
-# foog4good_expamle
+# food4good_app
 
 A new Flutter application.
 

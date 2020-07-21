@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "63799557544",
+    "firebase_url": "https://food4good-f45a2.firebaseio.com",
+    "project_id": "food4good-f45a2",
+    "storage_bucket": "food4good-f45a2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63799557544:android:99e00d2b7fa801c73bb19d",
+        "android_client_info": {
+          "package_name": "com.food4good"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63799557544-c4asnrmhr042gc2rhuqd6blnmfmso95d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8WSyM8d0qaULJm3xbIoNvpkFAGBmUz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63799557544-c4asnrmhr042gc2rhuqd6blnmfmso95d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:63799557544:android:fc88e6b88d15e8713bb19d",
+        "android_client_info": {
+          "package_name": "com.food4good.food4good_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "63799557544-c4asnrmhr042gc2rhuqd6blnmfmso95d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN8WSyM8d0qaULJm3xbIoNvpkFAGBmUz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "63799557544-c4asnrmhr042gc2rhuqd6blnmfmso95d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
